@@ -1,8 +1,6 @@
 # This is a Sass Project 
 ## I watched a tutorial on Sass on a Youtube channel called Traversy Media to learn the basics of Sass. While watching i took some notes to grasp the subject, watched it again, wrote the code and played with it by changing some scss mainly and added comments. Brad Traversy does a great job explaining Sass in this video.
 ---
-## After watching and trying to understand Sass and it's possibilities
----
 ## Link to the Sass crash course i did. [https://www.youtube.com/watch?v=nu5mdN2JIwM]
 --
 ## 5 aspects/tools of Sass that i found useful:
