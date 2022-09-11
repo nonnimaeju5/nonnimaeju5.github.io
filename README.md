@@ -1,8 +1,6 @@
 # This is a Sass Project 
-## I watched a tutorial on Sass on a Youtube channel called Traversy Media to learn the basics of Sass. While watching i took some notes to grasp the subject, watched it again, wrote the code and played with it by changing some scss mainly and added comments. Brad Traversy does a great job explaining Sass in this video.
+## I watched a couple of tutorials related to Sass on a Youtube and read some articles to learn the basics of Sass. While watching and reading i took down notes to grasp the subject better, then i collected Sass tools that i think are pretty cool, after that i wrote the code and added comments. 
 ---
-## Link to the Sass crash course i did. [https://www.youtube.com/watch?v=nu5mdN2JIwM]
---
 ## 5 aspects/tools of Sass that i found useful:
   - How easy it is to change and control colors with Sass. 
   - Changing either $primary-color or $secondary-colors for example. And how easily it changes through the whole project.
